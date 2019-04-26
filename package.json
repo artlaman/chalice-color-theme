@@ -1,0 +1,39 @@
+{
+  "name": "theme-chalice",
+  "displayName": "Chalice Color Theme",
+  "description": "Chalice color theme for Visual Studio Code",
+  "version": "0.0.0",
+  "publisher": "artlaman",
+  "maintainers": [
+    "Artem Laman <artlaman@yandex.by>"
+  ],
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chalice",
+        "uiTheme": "vs",
+        "path": "./theme/chalice-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artlaman/chalice-color-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/artlaman/chalice-color-theme/issues"
+  },
+  "homepage": "https://github.com/artlaman/chalice-color-theme/blob/master/README.md",
+  "license": "MIT"
+}

@@ -2,7 +2,7 @@
   "name": "theme-chalice",
   "displayName": "Chalice Color Theme",
   "description": "Chalice color theme for Visual Studio Code",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "publisher": "artlaman",
   "maintainers": [
     "Artem Laman <artlaman@yandex.by>"

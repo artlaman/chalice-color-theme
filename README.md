@@ -1,7 +1,7 @@
 ## About
 
-Chalice color theme for [Visual Studio Code](http://code.visualstudio.com)
-Based on [Alabaster](https://github.com/tonsky/vscode-theme-alabaster) theme
+Chalice color theme for [Visual Studio Code](http://code.visualstudio.com)\
+Based on [Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster) theme
 
 ## Preview
 

@@ -87,6 +87,10 @@
     "scrollbarSlider.background": "#a6a6a64f",
     "scrollbarSlider.hoverBackground": "#a6a6a67a",
 
+    // Badge
+    "badge.foreground": "#000",
+    "badge.background": "#00000000",
+
     // Lists and trees
     "list.activeSelectionBackground": "#e8e8e8",
     "list.activeSelectionForeground": "#313131",

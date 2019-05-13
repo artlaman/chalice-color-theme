@@ -135,6 +135,8 @@
 
     // Status Bar colors
     "statusBar.background": "#cacaca",
+    "statusBarItem.hoverBackground": "#cacaca",
+    "statusBarItem.prominentHoverBackground": "#cacaca",
     "statusBar.foreground": "#545454",
     "statusBar.border": "#bababa",
     "statusBar.debuggingBackground": "#FFBC5D",

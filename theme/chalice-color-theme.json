@@ -122,12 +122,12 @@
     "editor.lineHighlightBackground": "#f0f0f0",
     "editor.lineHighlightBorder": "#f0f0f0",
     "editor.selectionHighlightBackground": "#E0E0E0",
-    "editorLineNumber.foreground": "#9DA39A",
     "editorCursor.foreground": "#007ACC",
     "editor.findMatchBackground": "#FFBC5D",
     "editor.findMatchHighlightBackground": "#FFE9A6",
     "editorIndentGuide.background": "#d2d2d2",
-    "editorLineNumber.activeForeground": "#000",
+    "editorLineNumber.foreground": "#7c7c7c",
+    "editorLineNumber.activeForeground": "#7c7c7c",
 
     // Panel colors
     "panel.border": "#DDDDDD",

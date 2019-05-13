@@ -119,8 +119,8 @@
     // Editor colors
     "editor.background": "#F7F7F7",
     "editor.foreground": "#000",
-    "editor.lineHighlightBackground": "#F7F7F7",
-    "editor.selectionBackground": "#BFDBFE",
+    "editor.lineHighlightBackground": "#f0f0f0",
+    "editor.lineHighlightBorder": "#f0f0f0",
     "editor.selectionHighlightBackground": "#E0E0E0",
     "editorLineNumber.foreground": "#9DA39A",
     "editorCursor.foreground": "#007ACC",

@@ -1,7 +1,7 @@
 {
   "name": "chalice-color-theme",
-  "displayName": "Chalice Color Theme",
-  "description": "Chalice color theme for Visual Studio Code based on Alabaster theme",
+  "displayName": "Chalice Light+Dark Theme",
+  "description": "Chalice light+dark color themes with minimal amount of highlighting for Visual Studio Code based on Alabaster theme",
   "version": "0.0.9",
   "publisher": "artlaman",
   "maintainers": [
@@ -23,15 +23,23 @@
     "color-theme",
     "icon-theme",
     "minimal",
-    "sublime"
+    "sublime",
+    "light",
+    "dark"
   ],
   "contributes": {
     "themes": [
       {
         "id": "chalice-color-theme",
-        "label": "Chalice",
+        "label": "Chalice (light)",
         "uiTheme": "vs",
         "path": "./theme/chalice-color-theme.json"
+      },
+      {
+        "id": "chalice-color-theme-dark",
+        "label": "Chalice (dark)",
+        "uiTheme": "vs-dark",
+        "path": "./theme/chalice-color-theme-dark.json"
       }
     ]
   },

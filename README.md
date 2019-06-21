@@ -1,4 +1,4 @@
-## Chalice color theme for [Visual Studio Code](http://code.visualstudio.com)
+## Chalice light+dark color themes with minimal amount of highlighting for [Visual Studio Code](http://code.visualstudio.com)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/artlaman/chalice-color-theme/blob/master/LICENSE)
 [![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/artlaman.chalice-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-color-theme)

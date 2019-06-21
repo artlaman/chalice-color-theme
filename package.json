@@ -1,8 +1,8 @@
 {
   "name": "chalice-color-theme",
   "displayName": "Chalice Color Theme (Light+Dark)",
-  "description": "Chalice color themes based on Alabaster theme",
-  "version": "0.1.1",
+  "description": "Chalice minimal color themes based on Alabaster theme",
+  "version": "0.1.2",
   "publisher": "artlaman",
   "maintainers": [
     "Artem Laman <artlaman@yandex.by>"

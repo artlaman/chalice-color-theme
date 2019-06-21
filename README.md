@@ -8,4 +8,5 @@ Recommended to use with [Chalice icon theme](https://marketplace.visualstudio.co
 
 ## Preview
 
-<img src="https://github.com/artlaman/chalice-color-theme/raw/master/preview.png" title="Chalice preview" />
+<img src="https://github.com/artlaman/chalice-color-theme/raw/master/preview.png" title="Chalice light preview" />
+<img src="https://github.com/artlaman/chalice-color-theme/raw/master/preview-dark.png" title="Chalice dark preview" />

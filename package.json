@@ -2,7 +2,7 @@
   "name": "chalice-color-theme",
   "displayName": "Chalice Light+Dark Theme",
   "description": "Chalice light+dark color themes with minimal amount of highlighting for Visual Studio Code based on Alabaster theme",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "publisher": "artlaman",
   "maintainers": [
     "Artem Laman <artlaman@yandex.by>"

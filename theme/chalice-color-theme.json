@@ -130,15 +130,15 @@
     // Editor colors
     "editor.background": "#F7F7F7",
     "editor.foreground": "#000",
-    // "editor.selectionBackground": "#ff0000",
-    // "editor.inactiveSelectionBackground": "#ff0000",
+    "editor.selectionBackground": "#bfdbfe",
+    "editor.inactiveSelectionBackground": "#e0e0e0",
     "editor.lineHighlightBackground": "#f0f0f0",
     "editor.lineHighlightBorder": "#f0f0f0",
     "editor.selectionHighlightBorder": "#FFBC5D",
     "editor.selectionHighlightBackground": "#00000000",
     "editorCursor.foreground": "#007ACC",
     "editor.rangeHighlightBackground": "#00000000",
-    // "editor.rangeHighlightBorder" : "#1d2324",
+    "editor.rangeHighlightBorder": "#00000000",
     "editor.findMatchBackground": "#FFBC5D",
     "editor.findMatchBorder": "#FFBC5D",
     "editor.findMatchHighlightBorder": "#FFBC5D",
@@ -173,6 +173,7 @@
     "statusBar.noFolderForeground": "#fff",
 
     // Integrated Terminal colors
+    "terminal.foreground": "#000",
     "terminal.ansiWhite": "#BBBBBB",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#325CC0",

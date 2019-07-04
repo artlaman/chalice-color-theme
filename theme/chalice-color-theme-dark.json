@@ -87,6 +87,7 @@
     "list.hoverForeground": "#cfd0d0",
     "list.focusBackground": "#3e4344",
     "list.focusForeground": "#cfd0d0",
+    "tree.indentGuidesStroke": "#6f7373",
 
     // Activity Bar
     "activityBar.background": "#323738",

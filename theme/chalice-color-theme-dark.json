@@ -58,13 +58,14 @@
     // Base colors
     "focusBorder": "#00000000",
     // "widget.shadow": "#DDDDDD",
-    // "selection.background": "#444849",
+    "selection.background": "#c8d8da1c",
 
     // Input control
     "input.background": "#0e1415",
-    "input.border": "#444849",
+    "input.border": "#0e1415",
     "input.foreground": "#8dafb2",
     "input.placeholderForeground": "#2d3a3b",
+    "inputOption.activeBorder": "#8e9090",
 
     // Dropdown control
     "dropdown.background": "#0e1415",

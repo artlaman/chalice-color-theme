@@ -6,7 +6,7 @@
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#DFDF8E"
+        "foreground": "#d4d499"
       }
     },
     {

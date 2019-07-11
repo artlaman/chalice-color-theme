@@ -1,56 +1,56 @@
 {
-  "name": "chalice-color-theme",
-  "displayName": "Chalice Color Theme (Light+Dark)",
-  "description": "Chalice minimal color themes based on Alabaster theme",
-  "version": "0.1.3",
-  "publisher": "artlaman",
-  "maintainers": [
-    "Artem Laman <artlaman@yandex.by>"
-  ],
-  "icon": "icon.png",
-  "galleryBanner": {
-    "color": "#DDDDDD",
-    "theme": "light"
-  },
-  "engines": {
-    "vscode": "*"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "theme",
-    "scheme",
-    "color-theme",
-    "icon-theme",
-    "minimal",
-    "sublime",
-    "light",
-    "dark"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "id": "chalice-color-theme",
-        "label": "Chalice (light)",
-        "uiTheme": "vs",
-        "path": "./theme/chalice-color-theme.json"
-      },
-      {
-        "id": "chalice-color-theme-dark",
-        "label": "Chalice (dark)",
-        "uiTheme": "vs-dark",
-        "path": "./theme/chalice-color-theme-dark.json"
-      }
-    ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/artlaman/chalice-color-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/artlaman/chalice-color-theme/issues"
-  },
-  "homepage": "https://github.com/artlaman/chalice-color-theme/blob/master/README.md",
-  "license": "MIT"
+    "name": "chalice-color-theme",
+    "displayName": "Chalice Color Theme (Light+Dark)",
+    "description": "Chalice minimal color themes based on Alabaster theme",
+    "version": "0.1.4",
+    "publisher": "artlaman",
+    "maintainers": [
+        "Artem Laman <artlaman@yandex.by>"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#DDDDDD",
+        "theme": "light"
+    },
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "scheme",
+        "color-theme",
+        "icon-theme",
+        "minimal",
+        "sublime",
+        "light",
+        "dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "id": "chalice-color-theme",
+                "label": "Chalice (light)",
+                "uiTheme": "vs",
+                "path": "./theme/chalice-color-theme.json"
+            },
+            {
+                "id": "chalice-color-theme-dark",
+                "label": "Chalice (dark)",
+                "uiTheme": "vs-dark",
+                "path": "./theme/chalice-color-theme-dark.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/artlaman/chalice-color-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/artlaman/chalice-color-theme/issues"
+    },
+    "homepage": "https://github.com/artlaman/chalice-color-theme/blob/master/README.md",
+    "license": "MIT"
 }

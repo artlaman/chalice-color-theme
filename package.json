@@ -2,7 +2,7 @@
   "name": "chalice-color-theme",
   "displayName": "Chalice Color Themes",
   "description": "Minimalistic color themes based on Alabaster theme",
-  "version": "0.1.6",
+  "version": "1.0.0",
   "publisher": "artlaman",
   "maintainers": [
     "Artem Laman <artlaman@yandex.by>"

@@ -115,8 +115,8 @@
 
     // Activity Bar
     "activityBar.background": "#DDDDDD",
-    "activityBar.foreground": "#656565",
-    "activityBar.inactiveForeground": "#A6A6A6",
+    "activityBar.foreground": "#424242",
+    "activityBar.inactiveForeground": "#9f9f9f",
 
     //  Side Bar
     "sideBar.background": "#DDDDDD",
@@ -160,7 +160,10 @@
 
     // Peek view colors
     "peekView.border": "#bababa",
-    "peekViewEditor.background": "#cacaca",
+    "peekViewEditor.background": "#f7f7f7",
+    "peekViewResult.matchHighlightBackground": "#FFBC5D",
+    "peekViewResult.selectionBackground": "#e8e8e8",
+    "peekViewResult.selectionForeground": "#313131",
 
     // Status Bar colors
     "statusBar.background": "#cacaca",
@@ -172,6 +175,15 @@
     "statusBar.debuggingForeground": "#000",
     "statusBar.noFolderBackground": "#7A3E9D",
     "statusBar.noFolderForeground": "#fff",
+
+    // Git colors
+    "gitDecoration.addedResourceForeground": "#448C27",
+    "gitDecoration.untrackedResourceForeground": "#9f9f9f",
+    "gitDecoration.modifiedResourceForeground": "#007ACC",
+    "gitDecoration.conflictingResourceForeground": "#cd974b",
+    "gitDecoration.deletedResourceForeground": "#F05050",
+    "gitDecoration.submoduleResourceForeground": "#7A3E9D",
+    "gitDecoration.ignoredResourceForeground": "#BBBBBB",
 
     // Integrated Terminal colors
     "terminal.foreground": "#000",

@@ -91,8 +91,8 @@
 
     // Activity Bar
     "activityBar.background": "#323738",
-    // "activityBar.foreground": "#656565",
-    // "activityBar.inactiveForeground": "#A6A6A6",
+    "activityBar.foreground": "#c5c5c5",
+    "activityBar.inactiveForeground": "#6d7070",
 
     // Side Bar
     "sideBar.background": "#323738",
@@ -138,6 +138,9 @@
     // Peek view colors
     "peekView.border": "#444849",
     "peekViewEditor.background": "#0E1415",
+    // "peekViewResult.matchHighlightBackground": "#cd974b",
+    "peekViewResult.selectionBackground": "#575b5c",
+    "peekViewResult.selectionForeground": "#ffffff",
 
     // Status Bar colors
     "statusBar.background": "#24292a",
@@ -149,6 +152,15 @@
     // "statusBar.debuggingForeground": "#000",
     // "statusBar.noFolderBackground": "#7A3E9D",
     // "statusBar.noFolderForeground": "#fff",
+
+    // Git colors
+    "gitDecoration.addedResourceForeground": "#95cb82",
+    "gitDecoration.untrackedResourceForeground": "#6d7070",
+    "gitDecoration.modifiedResourceForeground": "#0083B2",
+    "gitDecoration.conflictingResourceForeground": "#cd974b",
+    "gitDecoration.deletedResourceForeground": "#c7423b",
+    "gitDecoration.submoduleResourceForeground": "#CC8BC9",
+    "gitDecoration.ignoredResourceForeground": "#5e5f5f",
 
     // Integrated Terminal colors
     "terminal.foreground": "#8DAFB2",

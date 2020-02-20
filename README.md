@@ -57,4 +57,5 @@ Consider using these settings:
 
 ## What to do next
 
-If you like this theme, please consider donating via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YE3TCJJUKCN9E&source=url) to show your support. Or just [buy me a coffee](https://www.buymeacoffee.com/artlaman)!
+- If you found something ugly and have an idea how to make it better please [create an issue](https://github.com/artlaman/chalice-color-theme/issues/new/choose) or submit a pull request.
+- If everything's fine, you can [buy me a coffee](https://www.buymeacoffee.com/artlaman)!

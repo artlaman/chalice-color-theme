@@ -26,21 +26,34 @@
     "minimal",
     "sublime",
     "light",
-    "dark"
+    "dark",
+    "mono"
   ],
   "contributes": {
     "themes": [
       {
-        "id": "chalice-color-theme",
-        "label": "Chalice (light)",
+        "id": "chalice-color-theme-light",
+        "label": "Light (Chalice)",
         "uiTheme": "vs",
-        "path": "./theme/chalice-color-theme.json"
+        "path": "./theme/chalice-color-theme-light.json"
+      },
+      {
+        "id": "chalice-color-theme-light-mono",
+        "label": "Light Mono (Chalice)",
+        "uiTheme": "vs",
+        "path": "./theme/chalice-color-theme-light-mono.json"
       },
       {
         "id": "chalice-color-theme-dark",
-        "label": "Chalice (dark)",
+        "label": "Dark (Chalice)",
         "uiTheme": "vs-dark",
         "path": "./theme/chalice-color-theme-dark.json"
+      },
+      {
+        "id": "chalice-color-theme-dark-mono",
+        "label": "Dark Mono (Chalice)",
+        "uiTheme": "vs-dark",
+        "path": "./theme/chalice-color-theme-dark-mono.json"
       }
     ]
   },

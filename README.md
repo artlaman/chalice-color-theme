@@ -6,13 +6,13 @@
 
 Designed to facilitate the needs of those sneaking through hundreds of those themes available in the Extension Marketplace, shiny and ugly, unable to concentrate on just writing code. Recommended to use with [Chalice icon theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme)
 
-## Light theme preview
-
-<img src="https://github.com/artlaman/chalice-color-theme/raw/master/preview.png" title="Chalice light preview" />
-
 ## Dark theme preview
 
 <img src="https://github.com/artlaman/chalice-color-theme/raw/master/preview-dark.png" title="Chalice dark preview" />
+
+## Light theme preview
+
+<img src="https://github.com/artlaman/chalice-color-theme/raw/master/preview.png" title="Chalice light preview" />
 
 ## Whys
 
@@ -34,7 +34,7 @@ and doesn’t highlight anything else. Because it’s totally better this way. M
 
 You can download color profiles for OS X Terminal.app for a more consistent experience here: [dark color profile](https://github.com/lysyi3m/macos-terminal-themes/blob/master/schemes/Chalice%20Dark.terminal), [light color profile](https://github.com/lysyi3m/macos-terminal-themes/blob/master/schemes/Chalice.terminal)
 
-Consider using these settings:
+Consider using these settings to reduce visual noize:
 
 ```js
 {
@@ -49,9 +49,23 @@ Consider using these settings:
   "workbench.editor.showIcons": false,
   "workbench.editor.tabSizing": "shrink",
   "workbench.preferredDarkColorTheme": "chalice-color-theme-dark",
-  "workbench.preferredLightColorTheme": "chalice-color-theme",
+  "workbench.preferredLightColorTheme": "chalice-color-theme-light",
   "workbench.statusBar.visible": false,
   "workbench.tree.indent": 10,
+}
+```
+
+Or if you are wicked
+
+```js
+{
+  "editor.occurrencesHighlight": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.parameterHints": false,
+  "editor.quickSuggestions": false,
+  "editor.renderIndentGuides": false,
+  "workbench.preferredDarkColorTheme": "chalice-color-theme-dark-mono",
+  "workbench.preferredLightColorTheme": "chalice-color-theme-light-mono",
 }
 ```
 

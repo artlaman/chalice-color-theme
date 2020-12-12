@@ -1,57 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Dark (Chalice)",
-  "tokenColors": [
-    {
-      "name": "Comments",
-      "scope": ["comment", "punctuation.definition.comment"],
-      "settings": {
-        "foreground": "#d4d499"
-      }
-    },
-    {
-      "name": "Strings",
-      "scope": ["string", "string.regexp", "constant.other.symbol"],
-      "settings": {
-        "foreground": "#95CB82"
-      }
-    },
-    {
-      "name": "Strings: Escape Sequences",
-      "scope": "constant.character.escape",
-      "settings": {
-        "foreground": "#71ADE7"
-      }
-    },
-    {
-      "name": "Numbers, Characters",
-      "scope": ["constant.numeric", "constant.character", "constant.keyword", "constant"],
-      "settings": {
-        "foreground": "#71ADE7"
-      }
-    },
-    {
-      "name": "Global definitions",
-      "scope": "entity.name",
-      "settings": {
-        "foreground": "#CC8BC9"
-      }
-    },
-    {
-      "name": "Punctuation",
-      "scope": "punctuation",
-      "settings": {
-        "foreground": "#708B8D"
-      }
-    },
-    {
-      "name": "Invalid",
-      "scope": "invalid",
-      "settings": {
-        "foreground": "#d46e69"
-      }
-    }
-  ],
+  "name": "Dark Mono (Chalice)",
+  "tokenColors": [],
   "colors": {
     // https://code.visualstudio.com/api/references/theme-color
 

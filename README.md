@@ -32,7 +32,7 @@ and doesn’t highlight anything else. Because it’s totally better this way. M
 
 ## Additionally
 
-You can download color profiles for OS X Terminal.app for a more consistent experience here: [dark color profile](https://github.com/lysyi3m/macos-terminal-themes/blob/master/schemes/Chalice%20Dark.terminal), [light color profile](https://github.com/lysyi3m/macos-terminal-themes/blob/master/schemes/Chalice.terminal)
+You can download color profiles for OS X Terminal.app for a more consistent experience here: [dark color profile](https://github.com/lysyi3m/macos-terminal-themes/blob/master/themes/Chalice%20Dark.terminal), [light color profile](https://github.com/lysyi3m/macos-terminal-themes/blob/master/themes/Chalice.terminal)
 
 Consider using these settings to reduce visual noize:
 

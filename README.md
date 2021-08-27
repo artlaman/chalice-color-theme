@@ -72,4 +72,4 @@ Or if you are wicked
 ## What to do next
 
 - If you found something ugly and have an idea how to make it better please [create an issue](https://github.com/artlaman/chalice-color-theme/issues/new/choose) or submit a pull request.
-- If everything's fine, you can [buy me a coffee](https://www.buymeacoffee.com/artlaman)!
+- If you like this theme please star my [repository](https://github.com/artlaman/chalice-color-theme) would appreciate that a lot!

@@ -43,6 +43,7 @@ Consider using these settings to reduce visual noize:
   "editor.minimap.enabled": false,
   "editor.renderLineHighlight": "gutter",
   "editor.smoothScrolling": true,
+  "editor.bracketPairColorization.enabled": false,
   "explorer.decorations.colors": false,
   "window.autoDetectColorScheme": true,
   "workbench.activityBar.visible": false,

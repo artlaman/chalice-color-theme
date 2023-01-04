@@ -1,8 +1,8 @@
 # Chalice color themes for [Visual Studio Code](http://code.visualstudio.com)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/artlaman/chalice-color-theme/blob/master/LICENSE)
-[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/artlaman.chalice-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-color-theme)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/artlaman.chalice-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-color-theme)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/artlaman.chalice-color-theme)](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-color-theme)
+[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/artlaman.chalice-color-theme)](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-color-theme&ssr=false#review-details)
 
 Designed to facilitate the needs of those sneaking through hundreds of those themes available in the Extension Marketplace, shiny and ugly, unable to concentrate on just writing code. Recommended to use with [Chalice icon theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme)
 

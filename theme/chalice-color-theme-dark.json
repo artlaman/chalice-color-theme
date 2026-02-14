@@ -79,13 +79,13 @@
     // "scrollbarSlider.hoverBackground": "#a6a6a67a",
 
     // Lists and trees
-    "list.activeSelectionBackground": "#575b5c",
-    "list.activeSelectionForeground": "#ffffff",
-    "list.inactiveSelectionBackground": "#575b5c",
-    "list.inactiveSelectionForeground": "#ffffff",
-    "list.hoverBackground": "#3e4344",
+    "list.activeSelectionBackground": "#414646",
+    "list.activeSelectionForeground": "#cfd0d0",
+    "list.inactiveSelectionBackground": "#414646",
+    "list.inactiveSelectionForeground": "#cfd0d0",
+    "list.hoverBackground": "#373d3d",
     "list.hoverForeground": "#cfd0d0",
-    "list.focusBackground": "#3e4344",
+    "list.focusBackground": "#373d3d",
     "list.focusForeground": "#cfd0d0",
     "tree.indentGuidesStroke": "#6f7373",
 
@@ -160,7 +160,7 @@
     "gitDecoration.conflictingResourceForeground": "#cd974b",
     "gitDecoration.deletedResourceForeground": "#c7423b",
     "gitDecoration.submoduleResourceForeground": "#CC8BC9",
-    "gitDecoration.ignoredResourceForeground": "#5e5f5f",
+    "gitDecoration.ignoredResourceForeground": "#6d7070",
 
     // Integrated Terminal colors
     "terminal.foreground": "#8DAFB2",

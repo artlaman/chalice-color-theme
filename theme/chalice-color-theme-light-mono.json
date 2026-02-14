@@ -112,7 +112,7 @@
     "gitDecoration.conflictingResourceForeground": "#cd974b",
     "gitDecoration.deletedResourceForeground": "#F05050",
     "gitDecoration.submoduleResourceForeground": "#7A3E9D",
-    "gitDecoration.ignoredResourceForeground": "#BBBBBB",
+    "gitDecoration.ignoredResourceForeground": "#9f9f9f",
 
     // Integrated Terminal colors
     "terminal.foreground": "#000",
